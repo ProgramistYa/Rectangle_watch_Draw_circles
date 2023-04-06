@@ -1,3 +1,4 @@
+#Просто нажмите "run" и сами всё увидите
 import time
 import datetime as dt
 import turtle
@@ -6,7 +7,6 @@ import turtle
 t = turtle.Turtle()
 # создаем черепашку для создания прямоугольника
 t1 = turtle.Turtle()
-
 # создать экран
 s = turtle.Screen()
 # Цвет экрана
